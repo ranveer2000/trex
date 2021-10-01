@@ -12,7 +12,7 @@ var score=0;
 
 var gameOver, restart;
 
-var jumpSound , checkPointSound, dieSound;
+var jumpSound, dieSound;
 
 function preload(){
   trex_running =   loadAnimation("trex1.png","trex3.png","trex4.png");
